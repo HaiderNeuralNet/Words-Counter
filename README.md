@@ -102,7 +102,7 @@ Follow these steps to run the app locally on your machine:
      ```bash
       cd word-counter-app
      ```
-3. **Step 3- Run The App**
+ **Step 3- Run The App**
    ```bash
 streamlit run main.py
 Or if you have multiple Python versions:

@@ -131,7 +131,7 @@ Step-by-Step Guide
 
 6. If text area is empty, a friendly warning will appear
   ```
-###📁 Project Structure
+## 📁 Project Structure
 ```
 word-counter-app/
 │
